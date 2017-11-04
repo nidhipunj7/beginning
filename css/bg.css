@@ -1,0 +1,42 @@
+/*
+body{
+    
+    background-image: url("../images/bg1.jpg")
+}
+*/
+
+body{
+
+    background: url("../images/beerOp.jpg")
+        no-repeat center center fixed ;
+    background-size:cover;
+
+}
+
+/*
+div{
+    background-color: #796d68;
+}
+*/
+
+
+h1{
+    color:black;
+    text-align: center;
+/*    border: 3px solid gray;*/
+/*    border: 3px solid null;*/
+    
+    width: 800px;
+    padding: 50px;
+    margin: 0 auto; /*to align the text irrespective of the window size*/
+    margin-top: 250px;
+     
+    font-family: 'Lora', serif;
+    font-size: 4em; /* em ia relative unit*/
+}
+
+i{
+    color:chocolate;
+   font-size: 10em; 
+    
+}
